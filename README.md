@@ -1,4 +1,4 @@
-<img width=1500 src="https://github.com/nolan-reilly/nolan-reilly/assets/88734512/4f4162cf-87ef-4f77-baed-3229ce1333bf">
+![banner](https://github.com/nolan-reilly/nolan-reilly/assets/88734512/8734f955-44bd-4605-afec-80aa5b44958a)
 
 <h2>Hey There!👋</h2>
 <p>🔭 I'm currently working on a <strong>webpage using Webpack</strong>.</p>
