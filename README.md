@@ -16,7 +16,7 @@
 </div>
 
 <h2>Hey there!👋</h2>
-<p>🔭 I'm currently working on a <strong>webpage using Webpack</strong>.</p>
+<p>🔭 Right now I'm working on a <strong>webpage using Webpack</strong>.</p>
 <p>🎓 I'm studying Computer Science at the University of Illinois at Chicago.</p>
 <p>🌱 I'm currently learning <strong>Web Development</strong> with <strong>The Odin Project</strong>.</p>
 
