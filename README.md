@@ -16,21 +16,20 @@
 </div>
 
 <h2>🚀 About Me 🚀</h2>
-<br>
 <p>🔭 Right now I'm working on building a <strong>webpage using Webpack</strong>.</p>
 <p>🎓 I'm studying Computer Science at the University of Illinois at Chicago.</p>
 <p>🌱 I'm currently learning <strong>Web Development</strong> with <strong>The Odin Project</strong>.</p>
+<br>
 
 <!-- SKills -->
 <h2>⚒️ Languages & Tools ⚒️</h2>
-<br/>
 <div>
   <img src="https://skillicons.dev/icons?i=javascript,html,css,wordpress,tailwind,npm,webpack,nodejs,express,nextjs,react,python,ruby,rails">
   <img src="https://skillicons.dev/icons?i=sqlite,postgres,cpp,arduino,cs,dotnet,unity,blender,linux,git">
 </div>
+<br>
 
 <h2>⚡ Stats ⚡</h2>
-<br>
 <a href="https://github.com/nolan-reilly/github-readme-stats#gh-dark-mode-only">
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=nolan-reilly&show_icons=true&hide=prs,contribs&theme=dark"/>
 </a>
