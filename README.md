@@ -20,11 +20,11 @@
 </div>
 
 <!-- SKills -->
-<h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2>⚒️ Languages & Tools ⚒️</h2>
 <br/>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,html,css,wordpress,tailwind,npm,webpack,nodejs,express,nextjs,react">
-  <img src="https://skillicons.dev/icons?i=python,ruby,rails,sqlite,postgres,cpp,arduino,cs,dotnet,unity,blender,linux,git">
+<div>
+  <img src="https://skillicons.dev/icons?i=javascript,html,css,wordpress,tailwind,npm,webpack,nodejs,express,nextjs,react,python,ruby,rails">
+  <img src="https://skillicons.dev/icons?i=sqlite,postgres,cpp,arduino,cs,dotnet,unity,blender,linux,git">
 </div>
 
 <h2>⚡ Stats ⚡</h2>
