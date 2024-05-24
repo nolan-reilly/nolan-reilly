@@ -1,4 +1,4 @@
-![banner](https://github.com/nolan-reilly/nolan-reilly/assets/88734512/8734f955-44bd-4605-afec-80aa5b44958a)
+![banner](https://github.com/nolan-reilly/nolan-reilly/assets/88734512/d3cf2ac3-4d32-4c65-9b87-b1afda98b62a)
 
 <h2>Hey There!👋</h2>
 <p>🔭 I'm currently working on a <strong>webpage using Webpack</strong>.</p>
