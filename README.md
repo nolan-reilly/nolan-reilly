@@ -1,4 +1,5 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F7F7F7&random=false&width=800&lines=Hey+there!%F0%9F%91%8B;I'm+Nolan%2C+a+software+developer." alt="Typing SVG"/>
+<a href="https://git.io/typing-svg#gh-light-mode-only"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=000000&random=false&width=800&lines=Hey+there!%F0%9F%91%8B;I'm+Nolan%2C+a+software+developer." alt="Typing SVG" /></a>
 
 <h2>🚀 About Me 🚀</h2>
 <p>🔭 Right now I'm working on building a <strong>webpage using Webpack</strong>.</p>
