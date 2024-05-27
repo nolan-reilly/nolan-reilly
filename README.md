@@ -24,11 +24,11 @@
 <div>
   <!-- General GitHub Stats -->
   <a href="https://github.com/nolan-reilly/github-readme-stats#gh-dark-mode-only">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=nolan-reilly&show_icons=true&hide=prs,contribs&hide_rank&theme=dark"/>
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=nolan-reilly&show_icons=true&hide=prs,contribs&hide_rank=true&theme=dark"/>
   </a>
   
   <a href="https://github.com/nolan-reilly/github-readme-stats#gh-light-mode-only">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=nolan-reilly&show_icons=true&hide=prs,contribs&hide_rank&theme=default"/>
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=nolan-reilly&show_icons=true&hide=prs,contribs&hide_rank=true&theme=default"/>
   </a>
   
   <!-- Most used languaged stats -->
