@@ -14,8 +14,8 @@
 <!-- SKills Section -->
 <h2>⚒️ Languages & Tools ⚒️</h2>
 <div>
-  <img src="https://skillicons.dev/icons?i=javascript,html,css,npm,webpack,nodejs,express,nextjs,react">
-  <img src="https://skillicons.dev/icons?i=python,ruby,rails,sqlite,c,cpp,arduino,linux,git">
+  <img src="https://skillicons.dev/icons?i=javascript,html,css,npm,webpack,nodejs,express,react,python">
+  <img src="https://skillicons.dev/icons?i=ruby,rails,sqlite,c,cpp,arduino,linux,git">
 </div>
 <br>
 
