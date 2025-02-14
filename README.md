@@ -6,7 +6,7 @@
 <h2>🚀 About Me 🚀</h2>
 <div>
   <p>🔭 Right now I'm working on building a <strong>Web Application</strong>.</p>
-  <p>🎓 I'm studying Computer Science at the University of Illinois at Chicago.</p>
+  <p>🎓 I'm studying Computer Science at the <strong>University of Illinois at Chicago</strong>.</p>
   <p>🌱 I'm currently learning <strong>Web Development</strong> on the Odin Project.</p>
 </div>
 <br>
