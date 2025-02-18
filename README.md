@@ -7,15 +7,15 @@
 <div>
   <p>🔭 Right now I'm working on building a <strong>Web Application</strong>.</p>
   <p>🎓 I'm studying Computer Science at the <strong>University of Illinois at Chicago</strong>.</p>
-  <p>🌱 I'm currently learning <strong>Web Development</strong> on the Odin Project.</p>
+  <p>🌱 I'm currently learning <strong>Web Development</strong> through the Odin Project.</p>
 </div>
 <br>
 
 <!-- SKills Section -->
 <h2>⚒️ Languages & Tools ⚒️</h2>
 <div>
-  <img src="https://skillicons.dev/icons?i=javascript,html,css,nodejs,react,next,express,java,python">
-  <img src="https://skillicons.dev/icons?i=ruby,rails,tailwind,figma,sqlite,c,arduino,linux,git">
+  <img src="https://skillicons.dev/icons?i=javascript,html,css,nodejs,react,express,next,prisma,ruby,rails">
+  <img src="https://skillicons.dev/icons?i=java,python,tailwind,figma,sqlite,postgres,c,arduino,linux,git">
 </div>
 <br>
 
