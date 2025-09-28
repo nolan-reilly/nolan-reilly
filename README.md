@@ -7,7 +7,7 @@
 <div>
   <p>🔭 Right now I'm working on building a <strong>Web Application</strong>.</p>
   <p>🎓 I recently graduated with a degree in Computer Science from the <strong>University of Illinois at Chicago</strong>.</p>
-  <p>🌱 I'm currently learning <strong>Web Development</strong> through the Odin Project.</p>
+  <p>🌱 I'm currently working at <strong>Walsh</strong> as a <strong>Data Specialist</strong> & <strong>Project Manager</strong>.</p>
 </div>
 <br>
 
